@@ -1,0 +1,37 @@
+package java_plus;
+
+public class Chap06_1 {
+	/*
+	1. 1차원 배열
+	 1) 배열 : 같은 자료형으로 묶어놓은 집합
+	 2) 선언형태 : 자료형[] 변수명;
+	 3) 변수명 = new 자료형[갯수]; //원소가 갯수만큼 들어가도록 공간할당
+	 4) 호출 : 변수명[원소번호]
+	 5) 배열원소갯수 : 배열명.length -> 맴버변수
+	 6) for()문과 같이 사용가능 --> 배열원소번호는 순차적으로 진행되기 때문 
+	 
+	*/
+	public static void main(String[] args) {
+		/**
+		 * @param args
+		 */
+		int [] arr = {23,56,12,78,98,43,21};
+		//배열의 선언
+		//자료형 [] 배열명 = {원소0,원소1,...};
+		
+		System.out.println(arr); // 배열명을 호출할 경우 메모리 주소(객체값)가 호출된다
+		
+		System.out.println(arr[0]);
+		//원소를 호출할 경우 -> 배열명[원소번호]
+		
+		for (int i = 0; i < 4; i++) {
+			System.out.println("arr 원소 "+i+" 번째 값: "+arr[i]);			
+		}
+		//int last = arr.length; //배열의 원소갯수
+		for (int i = 0; i < arr.length; i++) {
+			System.out.println(arr[i]);
+			if(i !=(arr.length-1))
+				System.out.println(", ");
+		}
+	}
+}
