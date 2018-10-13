@@ -29,23 +29,21 @@ public class HangManMain {
 		
 		Scanner c = new Scanner(System.in);
 		System.out.println("HangmanGame Started");
+		StringBuilder re = new StringBuilder();;
 				
 		while(!g.isRevealed() && g.life!= 0) {
 			System.out.println(g.toString());
 			System.out.print("대문자 1글자 입력 : ");
-			String as = c.nextLine();
-			StringBuilder re = new StringBuilder();
-			
-			if (as.matches("[A-Z]")) {
-				if(re.indexOf(as) == -1) {
-					re.append(as);
-					System.out.println(g.mark(as.charAt(0)));
-				}else {
+			String in = c.nextLine();
+						
+			if (in.matches("[A-Z]")) {
+				if(re.indexOf(in) == -1) {
+					re.append(in);
+					System.out.println(g.mark(in.charAt(0)));
+				}else if(re.indexOf(in) != -1){
 					System.out.print("이미 입력한 글자 = ");
-					//for (int i = 0; i < re.length(); i++) {
-					//	System.out.print(new String(re));
-					//}
-					// 수정중...ing
+					System.out.print(new String(re+"\n"));
+										
 				}
 			}else {
 				System.out.println("대문자 1글자 입력 : ");
