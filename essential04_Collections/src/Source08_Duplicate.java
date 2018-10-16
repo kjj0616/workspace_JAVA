@@ -77,7 +77,9 @@ public class Source08_Duplicate {
 		
 		//##################################################
 		
-		//∝ 角力贸府鉴辑 @Override  hashCode() --> .equals()
+		//∝ 角力贸府鉴辑 HashSet, LinkedHashSet 
+		
+		// @Override  hashCode() --> .equals()
 		
 		// 1. public int hashCode() 
 

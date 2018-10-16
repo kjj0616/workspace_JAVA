@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\workspace"/>
 		<item value="C:\workspace\essential02_String"/>
 		<item value="C:\workspace\essential01_Array1"/>
 		<item value="C:\수업자료\JAVA웹개발\essential01.zip"/>

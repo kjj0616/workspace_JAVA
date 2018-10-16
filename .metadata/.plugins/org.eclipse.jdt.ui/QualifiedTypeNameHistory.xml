@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="Sim"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSplitPaneUI"/>
 <fullyQualifiedTypeName name="java_plus.cla_4_ret"/>
 <fullyQualifiedTypeName name="java_plus.cla_over"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
@@ -15,4 +13,10 @@
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.lang.SecurityException"/>
 <fullyQualifiedTypeName name="java_plus.cap_c"/>
+<fullyQualifiedTypeName name="java_plus.dy_child"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java_plus.final_1"/>
+<fullyQualifiedTypeName name="java_plus.ab_per"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSplitPaneUI"/>
 </qualifiedTypeNameHistroy>
