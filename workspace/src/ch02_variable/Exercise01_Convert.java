@@ -1,3 +1,4 @@
+package ch02_variable;
 class Exercise01_Convert {
 	public static void main(String[] args) {
 		/*
@@ -22,7 +23,7 @@ class Exercise01_Convert {
 		//System.out.println(((n1+n2)/10)*10 + Integer.valueOf(r));
 		System.out.println( ( ((n1+n2)/10)*10 + Integer.valueOf(r) ) == (n1+n2) ? "정답":"오답");
 
-		int ten = (n1+n2)/10
+		int ten = (n1+n2)/10;
 		// ten * 10
 
 		/*

@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source05_AutoConvert {
 	public static void main(String[] args) {
 		/*

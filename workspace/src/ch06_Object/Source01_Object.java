@@ -1,3 +1,4 @@
+package ch06_Object;
 import java.awt.Rectangle;	
 // 기본으로 연동이 되는 것들을 처리하기 위해서 작성하는 코드
 

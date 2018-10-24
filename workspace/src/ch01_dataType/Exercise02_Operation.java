@@ -1,3 +1,4 @@
+package ch01_dataType;
 class Exercise02_Operation{
 	public static void main(String[] args) 	{
 		//총 3줄을 출력하는 프로그램

@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source07_TypeConvert {
 	public static void main(String[] args) {
 		/*

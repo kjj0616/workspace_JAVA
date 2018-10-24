@@ -1,3 +1,4 @@
+package ch03_branch;
 /*
 	chap01, chap02를 거치면서
 	프로그램에서 사용할수 있는 데이터 종류와, 데이터에 지원하는 연산,
@@ -38,7 +39,7 @@ class Source01_Branch {
 			System.out.println("[System] invalied coin : "+ coin);
 			System.out.println("[System] Sorry");
 		}
-		System.out.println(");
+		System.out.println("");
 		System.out.println("[System] terminate");
 
 	}

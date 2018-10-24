@@ -1,3 +1,4 @@
+package ch04_loop;
 class Source08_for {
 	public static void main(String[] args)	{
 		/*

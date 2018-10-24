@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source06_ManualConvert {
 	public static void main(String[] args) {
 		/*

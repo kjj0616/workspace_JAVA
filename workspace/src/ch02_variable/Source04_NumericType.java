@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source04_NumericType {
 	public static void main(String[] args) {
 		/*

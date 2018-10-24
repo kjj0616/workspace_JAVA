@@ -1,3 +1,4 @@
+package ch02_variable;
 class Exercise02_Convert {
 	public static void main(String[] args) {
 		/*

@@ -1,3 +1,4 @@
+package ch04_loop;
 class Exercise03_Loop_2
 {
 	public static void main(String[] args) 

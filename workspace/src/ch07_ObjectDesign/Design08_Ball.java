@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	공 을 객체화
 
@@ -16,7 +17,7 @@
 	2. 처리할 패키지를 작업폴더기준으로 만들어서 소스파일을 그 안에 저장
 */
 
-package baseball;
+
 
 class Ball {
 	int course;

@@ -1,3 +1,4 @@
+package ch04_loop;
 class Source04_UseFLoop {
 	public static void main(String[] args)	{
 		/*

@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source07_UseMarket {
 	public static void main(String[] args)	{
 		Market m = new Market();

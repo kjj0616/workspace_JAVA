@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Exercise02_StockSimul {
 	public static void main(String[] args)	{
 		/*

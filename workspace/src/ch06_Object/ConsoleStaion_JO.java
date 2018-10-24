@@ -1,3 +1,4 @@
+package ch06_Object;
 import javax.swing.JOptionPane;
 
 class ConsoleStaion_JO {

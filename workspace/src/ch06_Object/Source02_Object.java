@@ -1,3 +1,4 @@
+package ch06_Object;
 import java.awt.Rectangle;
 
 class Source02_Object {

@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source08_UseMarket {
 	public static void main(String[] args)	{
 		Player u = new Player("ȫ�浿", 20000);

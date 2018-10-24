@@ -1,3 +1,4 @@
+package ch06_Object;
 class ConsoleStaion_M {
 	UpDownEngine e1;
 	UpDownEngine e2;

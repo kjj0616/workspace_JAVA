@@ -1,3 +1,4 @@
+package ch06_Object;
 /*
 	procedure 를 이용한 UpDown Game을 구현해보았는데,
 	데이터 관리나 처리를 좀더 편하게 하기 위해서 UpDownEngine 객체를 설계해보고

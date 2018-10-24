@@ -1,3 +1,4 @@
+package ch06_Object;
 /*
 	설계한 sphere 객체가 실제 생성되서 작동될때 제대로 돌아가는지 확인
 */

@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Player {
 	String name;
 	int balance;

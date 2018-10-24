@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source06_UseStock {
 	public static void main(String[] args)	{
 		Stock s = new Stock("현대해상");

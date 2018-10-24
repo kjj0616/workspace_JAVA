@@ -1,5 +1,7 @@
+package ch06_Object;
 class Source09_EngineStaion {
-		select = System.console().readLine();
+	public static void main(String[] args) {
+		String select = System.console().readLine();
 		/*	==OptionPane 1ÀÎ¿ë==
 		ConsoleStaion_JO c = new ConsoleStaion();
 		UpDownEngine e = new UpDownEngine();
@@ -23,6 +25,5 @@ class Source09_EngineStaion {
 		c.insert(e,f);
 		c.play();
 		c.remove();
-		
-	}
+	}	
 }

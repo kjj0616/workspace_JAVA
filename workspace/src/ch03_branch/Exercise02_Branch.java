@@ -1,3 +1,4 @@
+package ch03_branch;
 class Exercise02_Branch {
 	public static void main(String[] args) 	{
 		

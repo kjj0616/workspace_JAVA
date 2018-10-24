@@ -1,3 +1,4 @@
+package ch04_loop;
 class Source02_While {
 	public static void main(String[] args) 	{
 		/*

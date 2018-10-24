@@ -1,3 +1,4 @@
+package ch06_Object;
 
 class Source06_EngineUse {
 	public static void main(String[] args)	{

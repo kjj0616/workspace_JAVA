@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source05_UseUtils {
 	public static void main(String[] args)	{
 		Utils u = new Utils();

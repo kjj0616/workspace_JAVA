@@ -1,3 +1,4 @@
+package ch03_branch;
 class MukJJiBBar_KJJ {
 	public static void main(String[] args) 	{
 		/*

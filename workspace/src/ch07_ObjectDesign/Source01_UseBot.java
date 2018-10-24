@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source01_UseBot {
 	public static void main(String[] args)	{
 	// new Bot(); 이 객체는 이런식으로는 생성이 불가능해진다.

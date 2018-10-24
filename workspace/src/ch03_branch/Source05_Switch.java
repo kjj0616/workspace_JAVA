@@ -1,3 +1,4 @@
+package ch03_branch;
 class Source05_Switch {
 	public static void main(String[] args) 	{
 		/*

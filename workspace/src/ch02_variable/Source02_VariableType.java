@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source02_VariableType {
 	public static void main(String[] args) {
 		/*

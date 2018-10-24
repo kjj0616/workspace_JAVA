@@ -1,3 +1,4 @@
+package ch06_Object;
 class Source03_RobotUse {
 	public static void main(String[] args)	{
 		// 설계한 개체 작동확인 test

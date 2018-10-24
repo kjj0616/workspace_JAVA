@@ -1,3 +1,4 @@
+package ch06_Object;
 /*
 	Rectangle 같은 객체는 어떻게 설계하는건가?
 	객체 설계도 조스파일은 java파일로 만드시면 되고,

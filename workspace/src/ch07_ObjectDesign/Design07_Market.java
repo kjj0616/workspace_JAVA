@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	사용자가 보유중인 주식(객체)를 관리해줄 객체
 */

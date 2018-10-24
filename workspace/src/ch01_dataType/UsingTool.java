@@ -1,3 +1,4 @@
+package ch01_dataType;
 class UsingTool {
 	public static void main(String[] args) 	{
 		System.out.println("developed by KJJ");

@@ -1,3 +1,4 @@
+package ch01_dataType;
 /*
     범위형 comment (범위주석)
     작성자 : 윤형호

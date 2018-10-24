@@ -1,3 +1,4 @@
+package ch06_Object;
 class Source05_NullValue {
 	public static void main(String[] args)	{
 		/*

@@ -1,12 +1,13 @@
 applyBackground=false
-approved.defs.file.last.changed.time=1523293951000
+approved.defs.file.last.changed.time=1540329737000
+codemix.announce.displayed=true
 codemix.dont.show.upsell.until=1540050301906
 configurationInstallLocation=/C\:/eclipse2/
 eclipse.preferences.version=1
 iconcolormode=primary
 includeThemingInOomph=false
-last.download.attempt.time=1539706097230
-lastConfiguration=1538581490701
+last.download.attempt.time=1540408815288
+lastConfiguration=1539883326582
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

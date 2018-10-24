@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source02_UseEnemy {
 	public static void main(String[] args)	{
 		System.out.println(Enemy.health);

@@ -1,3 +1,4 @@
+package ch05_procedure;
 class UpDown_KJJ {
 	static int random(){
 		return 1 + (int)(Math.random()*200);

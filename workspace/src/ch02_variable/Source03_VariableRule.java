@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source03_VariableRule {
 	public static void main(String[] args) {
 		/*

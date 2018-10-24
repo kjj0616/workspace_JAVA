@@ -1,3 +1,4 @@
+package ch05_procedure;
 class Exercise01_Procedure {
 	/*
 		프로시저 몇개를 설계해서 그걸 토대로 작동하는 프로그램을 하나 만들어보자.

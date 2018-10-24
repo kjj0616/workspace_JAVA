@@ -1,13 +1,15 @@
+package ch07_ObjectDesign;
 /*
 	처리할 패키지 내부에다가 객체를 설계하고, 일반컴파일을 진행해도 됨
 */
-package baseball;
 
-public class PitchingMachine {
+import ch07_ObjectDesign.baseball.Ball;
+
+public class Design09_PitchingMachine {
 
 	int hard;	// 0 , 1 , 2
 
-	PitchingMachine(int hard){
+	Design09_PitchingMachine(int hard){
 		this.hard = hard;
 	}
 

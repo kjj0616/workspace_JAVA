@@ -1,6 +1,7 @@
+package ch06_Object;
 import javax.swing.JOptionPane;
 
-class ConsoleStaion_JO {
+class ConsoleStaion {
 	UpDownEngine engine;
 	
 	boolean insert(UpDownEngine e){

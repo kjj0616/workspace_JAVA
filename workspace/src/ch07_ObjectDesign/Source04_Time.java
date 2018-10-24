@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	Stage 객체를 이용해서,
 	한쪽이 승리조건을 만족하면 종료되는 프로그램

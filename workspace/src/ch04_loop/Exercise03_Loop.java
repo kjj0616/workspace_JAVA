@@ -1,3 +1,4 @@
+package ch04_loop;
 class Exercise03_Loop {
 	public static void main(String[] args)	{
 		// vip 등급계산

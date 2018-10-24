@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	패키지 처리 안했으니, 디폴트 패키지에서
 	패키지 처리된 객체를 사용하는 상황이 되면?
@@ -15,16 +16,14 @@
 	그래야 import 혹은 소속지정해서 사용할수 있다.
 */
 
-import baseball.PitchingMachine;
-import baseball.Ball;
-import baseball.Hitter;
+import ch07_ObjectDesign.baseball.*;
 
 class Source09_UseMachine {
 	public static void main(String[] args)	{
 		Hitter h = new Hitter("로덱");
 		//h.levelUpIn(0);
 
-		baseball.PitchingMachine pm = new PitchingMachine(0);
+		PitchingMachine pm = new PitchingMachine(0);
 		for(int cnt = 1; cnt<=10; cnt++){
 			Ball b = pm.pitch();
 			System.out.println(b.current());

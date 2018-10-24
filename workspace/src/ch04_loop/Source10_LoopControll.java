@@ -1,3 +1,4 @@
+package ch04_loop;
 class Source10_LoopControll {
 	public static void main(String[] args)	{
 		/*

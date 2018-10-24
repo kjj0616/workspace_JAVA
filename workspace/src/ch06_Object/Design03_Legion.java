@@ -1,3 +1,4 @@
+package ch06_Object;
 class Legion {
 	Robot one;
 	Robot other;

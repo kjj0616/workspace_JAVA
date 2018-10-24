@@ -1,3 +1,4 @@
+package ch02_variable;
 class Source08_VariableOperation {
 	public static void main(String[] args) {
 		/*

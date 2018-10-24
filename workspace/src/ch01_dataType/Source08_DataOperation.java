@@ -1,3 +1,4 @@
+package ch01_dataType;
 class Source08_DataOperation {
 	public static void main(String[] args) {
 		/*

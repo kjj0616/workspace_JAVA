@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 class Source03_UseStage {
 	public static void main(String[] args)	{
 		// Stage 객체를 생성하면서 player 가 설정될수 있게 Stage에 constructor를 설계해두자

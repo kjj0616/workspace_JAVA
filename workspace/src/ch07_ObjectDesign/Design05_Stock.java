@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	주식 투자 시뮬레이션을 위해서, 주식정보를 객체화시켜두자
 	# this 라는 값을 사용하는 법 #

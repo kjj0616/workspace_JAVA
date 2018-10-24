@@ -1,3 +1,4 @@
+package ch01_dataType;
 class Exercise01_Operation {
 	public static void main(String[] args) 	{
 		// 1. 하루가 몇초인가?

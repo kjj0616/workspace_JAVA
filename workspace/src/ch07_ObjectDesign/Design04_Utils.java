@@ -1,3 +1,4 @@
+package ch07_ObjectDesign;
 /*
 	static 설정된 변수나 함수는 생성없이 사용가능하다는걸 이용해서,
 	Math 같은 객체 설계가 가능하다.

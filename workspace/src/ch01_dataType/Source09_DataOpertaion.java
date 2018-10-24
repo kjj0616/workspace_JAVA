@@ -1,3 +1,4 @@
+package ch01_dataType;
 class Source09_DataOpertaion {
 	public static void main(String[] args) {
 		/*

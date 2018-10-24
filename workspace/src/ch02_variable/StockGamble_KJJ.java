@@ -1,3 +1,4 @@
+package ch02_variable;
 class StockGamble_KJJ {
 	public static void main(String[] args) {
 		/*

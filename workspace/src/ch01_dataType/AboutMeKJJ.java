@@ -1,4 +1,4 @@
-
+package ch01_dataType;
 class AboutMeKJJ {
 
     public static void main(String[] args) {

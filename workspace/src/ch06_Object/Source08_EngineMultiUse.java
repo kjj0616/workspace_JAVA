@@ -1,3 +1,4 @@
+package ch06_Object;
 class Source08_EngineMultiUse {
 	public static void main(String[] args)	{
 		UpDownEngine e1 = new UpDownEngine();

@@ -1,3 +1,4 @@
+package ch05_procedure;
 class Source04_Procedure {
 	/*
 		반복문 연습 , 프로시저 생성 연습
